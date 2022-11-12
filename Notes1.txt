@@ -1,7 +1,6 @@
 This is my first GitHub Class
 This is my second commit
-<<<<<<< HEAD
+
 New Local Code
-=======
+
 New Remote Code
->>>>>>> db557d752fd9f27a73434381ba94ca08fc43c9ed
